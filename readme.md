@@ -1,7 +1,7 @@
 ## Deploy Github private/public shared host cpanel using FTP account
 note: I assuming you have already github repo ready to deploy
 1. create FTP account in cpanel
-2. create FTP account in github with same data as in cpanel FTP account and same domain you created:
+2. create FTP account in github with same data as in cpanel FTP account and same domain you created (data existed in cpanel FTP account):
  - FTP_USERNAME: admin@domain.com
  - FTP_SERVER: domain-name.com
  - FTP_PASSWORD
